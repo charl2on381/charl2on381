@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charlton Teo</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charl2on381&" alt="charl2on381" /></p>
+
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **charl2on381@gmail.com**
@@ -15,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charl2on381&show_icons=true&locale=en&layout=compact" alt="charl2on381" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charl2on381&" alt="charl2on381" /></p>
+
