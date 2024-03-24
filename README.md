@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Charlton Teo</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charl2on381&" alt="charl2on381" /></p>
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **ReactJS**
+
+- 👯 I’m looking to collaborate on **on creating web development team projects**
 
 - 📫 How to reach me **charl2on381@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/charltonhteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charltonhteo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charltonhteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charltonhteo" height="30" width="40" /></a>
 <a href="https://fb.com/charl2on381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charl2on381" height="30" width="40" /></a>
+<a href="https://instagram.com/charltonhteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charltonhteo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charl2on381&show_icons=true&locale=en&layout=compact" alt="charl2on381" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charl2on381&" alt="charl2on381" /></p>
