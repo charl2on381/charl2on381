@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlton Teo</h1>
-<h3 align="center">A passionate Software Developer from Philippines</h3>
+<h3 align="center">A passionate Software and Web Developer from Philippines</h3>
 
 - 🔭 I’m currently working on **Portfolio**
 
