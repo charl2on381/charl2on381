@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charlton Teo</h1>
 <h3 align="center">A passionate Software and Web Developer from Philippines</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=marventures&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **NodeJS**
