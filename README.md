@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 Motto: "I Make Difference on Enhancing Lives. Coding the Future and Building The Present"
 
 - 👯 I’m looking to collaborate on **on creating web development team projects**
 
