@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=charl2on381&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently finishing the last course on **Full Stack Web Developer**
 
 - 🌱 Motto: "I Make Difference on Enhancing Lives. Coding the Future and Building The Present"
 
