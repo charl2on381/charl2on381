@@ -3,13 +3,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=charl2on381&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently finishing the last course on **Full Stack Web Developer**
-
-- 🌱 Motto: "I Make Difference on Enhancing Lives. Coding the Future and Building The Present"
-
-- 👯 I’m looking to collaborate on **on creating web development team projects**
-
-- 📫 How to reach me **charl2on381@gmail.com**
+- 🔭 I’m currently finishing the last course on **Full Stack Web Developer Course**.
+- 🌱 Motto: "I Make Difference on Enhancing Lives. Coding the Future and Building The Present".
+- 👯 I’m looking to collaborate on **creating web development team projects**.
+- 💬 Ask me about **web development, JavaScript, and modern frameworks**.
+- 📫 How to reach me: **charl2on381@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
